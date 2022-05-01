@@ -1,0 +1,187 @@
+/* IMPOSTAZIONI GENERALI */
+body {
+    color: #393d41;
+    font-size: 1.2rem;
+    line-height: 1.65rem;
+    font-family: 'Open Sans', sans-serif;    
+}
+ 
+/* HEADER */
+header {
+    background: black url(../img/logo.png) no-repeat center;
+    padding-bottom: 8.8rem;
+    background-size: 11rem;
+    line-height: 1.5rem;
+}
+
+/* MAIN */
+main > div {
+    background: url(../img/banner.jpg) no-repeat center;
+    background-size: 47rem;
+    margin-top: -0.4rem;
+    height: 31rem;
+}
+h1 {
+    font-size: 2.9rem;
+    text-align: center;
+    color: #25a2c3 ;
+    margin-top: -25.8rem;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2.6rem;
+}
+ main > p {
+    margin-top: 1.54rem;
+    text-align: center;
+    line-height: 2.5rem;
+    font-size: 1.6rem;
+    max-width: 450px;
+    padding-left: 20px;
+}
+
+main form {
+    text-align: center;
+}
+main button {
+    margin-top: 2.5rem;
+    background-color: #f04c2f;
+    color: white;
+    border: none;
+    font-family: 'Montserrat', sans-serif, bold;
+    font-size: 1.1rem;
+    padding: 1.1rem;
+    padding-left: 2.6rem;
+    padding-right: 2.6rem;
+    border-radius: 0.5rem;
+}
+
+/* ELEMENTI MAIN */
+.h2 {
+    color: #25a2c3;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.6rem;
+    height: 3.2rem;
+    margin-top: 2.3rem;
+}
+.as1 {
+    padding-top: 5.4rem;
+}
+section p {
+    text-align: center;
+    font-size: 1.5rem;
+    line-height: 2.3rem;
+    max-width: 420px;
+    padding-left: 40px;
+}
+#fototonda {
+    margin-top: 2.3rem;
+    border-radius: 50%;
+    margin-left: 5rem;
+}
+#Ceo {
+    background-color: #e22d0e; 
+    color:white;
+    height: 390px;
+    text-align: center;
+}
+#Ceo h2 {
+    margin-top: 4.9rem;
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif, bold;
+    padding-top: 92px;
+}
+#Ceo p {
+    font-style: italic;
+    font-size: 1.3rem;
+    margin-top: 3.4rem;
+    line-height: 2rem;
+}
+#mario {
+    margin-top: 2.7rem;
+    line-height: 2rem;
+    font-size: 1.6rem;
+}
+#mario span {
+    font-size: 16px;
+}
+.foto1 {
+    margin-top: 4.5rem;
+    margin-bottom: -8px;
+}
+.foto2 {
+    margin-bottom: -8px;
+}
+#Pfoto2 {
+    margin-bottom: 40px;
+}
+.foto3{
+    margin-bottom: -8px;
+}
+.art {
+   
+    margin-top: 2px;
+    text-align: center;    
+    border-left: 200px;
+}
+.artside {
+    color: #25a2c3;
+    font-family: 'Montserrat', sans-serif, bold;
+}
+.art p {
+    border: solid 1px;
+    border-color: #dee1e3;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    text-align: center;   
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 1.2rem;
+    line-height: 2.1rem;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-bottom: 55px;
+    padding-top: 30px;
+    margin-bottom: 15px;
+}
+
+/* FOOTER */
+footer {
+    background-color: #25a2c3;
+    text-align: center;
+    padding-top: 0px;
+    height: 331.8px;
+    margin-top: 84px;
+    padding-bottom: 97px;
+    color:#c8e7f0 ;
+    line-height: 2.1rem;
+
+}
+footer h2 {
+    color: white;
+    font-family: 'Montserrat', sans-serif, bold;
+    font-size: 2.5rem;
+    padding-top: 4.6rem;
+    padding-bottom: 2.5rem;
+}
+footer a {
+    font-size: 1.4rem;
+    color: #c8e7f0;
+    
+}
+footer address {
+  display: inline;
+  font-size: 1.4rem;
+}
+footer hr {
+    color: #c8e7f0;
+    margin-top: 26px;
+    margin-bottom: 38.6px;
+    margin-left: 121px;
+    margin-right: 125px;
+  }
+footer p  {
+      font-size: 1.2rem;
+  }
+footer a:last-child {
+    font-size: 1.1rem;
+} 

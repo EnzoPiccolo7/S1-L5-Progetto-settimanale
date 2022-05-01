@@ -9,7 +9,7 @@ body {
 /* HEADER */
 header {
     background: black url(../img/logo.png) no-repeat center;
-    padding-bottom: 8.8rem;
+    padding-bottom: 8.9rem;
     background-size: 11rem;
     line-height: 1.5rem;
 }
@@ -19,15 +19,16 @@ main > div {
     background: url(../img/banner.jpg) no-repeat center;
     background-size: 47rem;
     margin-top: -0.4rem;
-    height: 31rem;
-}
+    height: 30.9rem;
+} 
 h1 {
     font-size: 2.9rem;
     text-align: center;
     color: #25a2c3 ;
-    margin-top: -25.8rem;
+    margin-top: -25.9rem;
     font-family: 'Montserrat', sans-serif;
-    line-height: 2.6rem;
+    line-height: 2.7rem;
+    
 }
  main > p {
     margin-top: 1.54rem;
@@ -35,7 +36,8 @@ h1 {
     line-height: 2.5rem;
     font-size: 1.6rem;
     max-width: 450px;
-    padding-left: 20px;
+    padding-left: 34px;
+    margin-right: 35px;
 }
 
 main form {
@@ -48,9 +50,9 @@ main button {
     border: none;
     font-family: 'Montserrat', sans-serif, bold;
     font-size: 1.1rem;
-    padding: 1.1rem;
+    padding: 1.2rem;
     padding-left: 2.6rem;
-    padding-right: 2.6rem;
+    padding-right: 2.8rem;
     border-radius: 0.5rem;
 }
 
@@ -180,7 +182,7 @@ footer hr {
     margin-right: 125px;
   }
 footer p  {
-      font-size: 1.2rem;
+      font-size: 19px;
   }
 footer a:last-child {
     font-size: 1.1rem;
